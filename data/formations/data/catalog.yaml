@@ -1,0 +1,183 @@
+trainings:
+  - PYT:
+    title: Python - Initiation
+    logo: PYT-logo.png
+    objectives: 
+     - Connaître les usages courants du langage 
+     - Maîtriser le scripting en Python
+     - Structurer son code en fonction, classes et modules 
+     - Utiliser des modules existants 
+     - Vous initier à la programmation réseau avec Python 
+     - Programmer objet en Python.
+    duration: 4 jours(28 heures)
+    certification: 
+    methodologies: 
+      - Démonstrations 
+      - Cas pratiques 
+      - Synthèse et évaluation des acquis
+    requirements:
+      - Connaître un langage de programmation
+    publics:
+      - Développeurs
+    modules:
+      - module: Introduction
+        elements:
+          - Historique
+          - Environnement de travail
+          - Champs d'application
+          - Scripts, fonctions et classes
+          - Versions architectures et plateformes pour Python
+          - Editeurs et environnements de Developpement (IDE)
+          - Installation et configuration de Python
+          - Conformité du codage a PEP8
+      - module: Introduction - 2 
+        elements:
+          - Historique
+          - Environnement de travail
+          - Champs d'application
+          - Scripts, fonctions et classes
+          - Versions architectures et plateformes pour Python
+          - Editeurs et environnements de Developpement (IDE)
+          - Installation et configuration de Python
+          - Conformité du codage a PEP8
+      - module: Introduction - 3
+        elements:
+          - Historique
+          - Environnement de travail
+          - Champs d'application
+          - Scripts, fonctions et classes
+          - Versions architectures et plateformes pour Python
+          - Editeurs et environnements de Developpement (IDE)
+          - Installation et configuration de Python
+          - Conformité du codage a PEP8
+      - module: Introduction - 4
+        elements:
+          - Historique
+          - Environnement de travail
+          - Champs d'application
+          - Scripts, fonctions et classes
+          - Versions architectures et plateformes pour Python
+          - Editeurs et environnements de Developpement (IDE)
+          - Installation et configuration de Python
+          - Conformité du codage a PEP8
+      - module: Introduction - 5
+        elements:
+          - Historique
+          - Environnement de travail
+          - Champs d'application
+          - Scripts, fonctions et classes
+          - Versions architectures et plateformes pour Python
+          - Editeurs et environnements de Developpement (IDE)
+          - Installation et configuration de Python
+          - Conformité du codage a PEP8
+      - module: Introduction - 6
+        elements:
+          - Historique
+          - Environnement de travail
+          - Champs d'application
+          - Scripts, fonctions et classes
+          - Versions architectures et plateformes pour Python
+          - Editeurs et environnements de Developpement (IDE)
+          - Installation et configuration de Python
+          - Conformité du codage a PEP8
+      - module: Introduction - 7
+        elements:
+          - Historique
+          - Environnement de travail
+          - Champs d'application
+          - Scripts, fonctions et classes
+          - Versions architectures et plateformes pour Python
+          - Editeurs et environnements de Developpement (IDE)
+          - Installation et configuration de Python
+          - Conformité du codage a PEP8
+  - PYT2:
+    title: Python - Expert
+    logo: PYT-logo.png
+    objectives: 
+     - Connaître les usages courants du langage 
+     - Maîtriser le scripting en Python
+     - Structurer son code en fonction, classes et modules 
+     - Utiliser des modules existants 
+     - Vous initier à la programmation réseau avec Python 
+     - Programmer objet en Python.
+    duration: 4 jours(28 heures)
+    certification: 
+    methodologies: 
+      - Démonstrations 
+      - Cas pratiques 
+      - Synthèse et évaluation des acquis
+    requirements:
+      - Connaître un langage de programmation
+    publics:
+      - Développeurs
+    modules:
+      - module: Introduction
+        elements:
+          - Historique
+          - Environnement de travail
+          - Champs d'application
+          - Scripts, fonctions et classes
+          - Versions architectures et plateformes pour Python
+          - Editeurs et environnements de Developpement (IDE)
+          - Installation et configuration de Python
+          - Conformité du codage a PEP8
+      - module: Introduction - 2 
+        elements:
+          - Historique
+          - Environnement de travail
+          - Champs d'application
+          - Scripts, fonctions et classes
+          - Versions architectures et plateformes pour Python
+          - Editeurs et environnements de Developpement (IDE)
+          - Installation et configuration de Python
+          - Conformité du codage a PEP8
+      - module: Introduction - 3
+        elements:
+          - Historique
+          - Environnement de travail
+          - Champs d'application
+          - Scripts, fonctions et classes
+          - Versions architectures et plateformes pour Python
+          - Editeurs et environnements de Developpement (IDE)
+          - Installation et configuration de Python
+          - Conformité du codage a PEP8
+      - module: Introduction - 4
+        elements:
+          - Historique
+          - Environnement de travail
+          - Champs d'application
+          - Scripts, fonctions et classes
+          - Versions architectures et plateformes pour Python
+          - Editeurs et environnements de Developpement (IDE)
+          - Installation et configuration de Python
+          - Conformité du codage a PEP8
+      - module: Introduction - 5
+        elements:
+          - Historique
+          - Environnement de travail
+          - Champs d'application
+          - Scripts, fonctions et classes
+          - Versions architectures et plateformes pour Python
+          - Editeurs et environnements de Developpement (IDE)
+          - Installation et configuration de Python
+          - Conformité du codage a PEP8
+      - module: Introduction - 6
+        elements:
+          - Historique
+          - Environnement de travail
+          - Champs d'application
+          - Scripts, fonctions et classes
+          - Versions architectures et plateformes pour Python
+          - Editeurs et environnements de Developpement (IDE)
+          - Installation et configuration de Python
+          - Conformité du codage a PEP8
+      - module: Introduction - 7
+        elements:
+          - Historique
+          - Environnement de travail
+          - Champs d'application
+          - Scripts, fonctions et classes
+          - Versions architectures et plateformes pour Python
+          - Editeurs et environnements de Developpement (IDE)
+          - Installation et configuration de Python
+          - Conformité du codage a PEP8
