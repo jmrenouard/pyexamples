@@ -13,15 +13,15 @@ args = parser.parse_args();
 
 path='.'
 if args.path:
-	path=args.path
+    path=args.path
 
 cmd="echo 'Modification detected'"
 if args.cmd:
-	cmd=args.cmd
+    cmd=args.cmd
 
 notifier = inotify.adapters.Inotify()
 if args.verbose:
-	print("Starting watching %s directory..." % path)
+    print("Starting watching %s directory..." % path)
 notifier.add_watch(path)
 
 for event in notifier.event_gen():
@@ -30,6 +30,6 @@ for event in notifier.event_gen():
             print("EVENT : %s " % str(event))      # uncomment to see all events generated
             print("file '{0}' created in '{1}'".format(event[3], event[2]))
             for idx, elt in enumerate(event):
-            	print("EVT %d: %s" % (idx, str(elt)))
+                print("EVT %d: %s" % (idx, str(elt)))
             print("Running command : %s" % cmd)
             os.system(cmd)

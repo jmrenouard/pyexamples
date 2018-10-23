@@ -3,6 +3,7 @@ import psycopg2
 import sys
 from ConfigParser import ConfigParser
 
+
 def config(filename='database.ini', section='postgresql'):
     # create a parser
     parser = ConfigParser()
@@ -20,16 +21,17 @@ def config(filename='database.ini', section='postgresql'):
  
     return db
 
+
 db = psycopg2.connect(**config())
 cursor = db.cursor()
 
 print "This is the name of the script: ", sys.argv[0]
 print "Number of arguments: ", len(sys.argv)
-print "The arguments are: " , str(sys.argv) 
+print "The arguments are: ", str(sys.argv)
 
 for req in sys.argv[1:]:
     print "-----------------------------------------"
-    print "-- "+ str(req) 
+    print "-- " + str(req)
     print "-----------------------------------------"
     cursor.execute(str(req))
     numrows = cursor.rowcount
@@ -38,8 +40,8 @@ for req in sys.argv[1:]:
     for d in list:
         print "line :", str(d)
     print "-----------------------------------------"
-    print "-- END OF "+ str(req) 
+    print "-- END OF " + str(req)
     print "-----------------------------------------"
         
-cursor.close ()
+cursor.close()
 db.close()
