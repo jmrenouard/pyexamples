@@ -12,6 +12,5 @@ def dit_hello():
 def print_kwargs(**kwargs):
     print(kwargs)
 
-
-if __name__ == "main":
+if __name__ == "__main__":
     dit_bonjour()
